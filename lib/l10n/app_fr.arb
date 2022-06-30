@@ -1,0 +1,13 @@
+{
+    "helloWorld": "Bonjour le monde",
+    "methodBottomBarText": "Quel méthode souhaite-vous utiliser pour gagner en productivité ? 🎊",
+    "customize": "Customisé",
+    "continueText": "Continuer",
+    "workStep": "✍ Étape de travail !",
+    "breakStep": "✍ Étape de détente !",
+    "overStep": "✅ C'est terminé !",
+
+    "workText": "📴\n Passer au travail",
+    "breakText": "📴\n Passer au repos",
+    "add1Minute": "+ 1 minute 🕦"
+}

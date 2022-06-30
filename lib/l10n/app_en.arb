@@ -1,0 +1,14 @@
+{
+    "helloWorld": "Hello Worlddd!",
+    "appTitle": "Pomodoro!",
+    "methodBottomBarText": "Which method do you want to use to gain productivity ? 🎊",
+    "customize": "Customized",
+    "continueText": "Continue",
+    "workStep": "✍ Work step!",
+    "breakStep": "✍ Break step!",
+    "overStep": "✅ It's over !",
+    "workText": "✍\n Go to work",
+    "breakText": "📴\n Take a break",
+    "add1Minute": "+ 1 minute 🕦"
+
+}
